@@ -1,4 +1,4 @@
-<img src="https://media-exp1.licdn.com/dms/image/D5616AQFxC8-dSbChFg/profile-displaybackgroundimage-shrink_350_1400/0/1670484418274?e=1675900800&v=beta&t=rqIXJLPyy6GxN_htGmBcFlpWMq0lIgHs3xTuPx9B0CE" alt="banner"
+
 
 <h1 align="center">Hi 👋, I'm Sagar Ali</h1>
 <h3 align="center">Web Developer</h3>
