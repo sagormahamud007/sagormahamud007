@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sagar Ali</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagormahamud007&label=Profile%20views&color=0e75b6&style=flat" alt="sagormahamud007" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=sagormahamud007&label=Profile%20views&color=0e75b6&style=flat](https://media-exp1.licdn.com/dms/image/D5616AQFxC8-dSbChFg/profile-displaybackgroundimage-shrink_350_1400/0/1670484418274?e=1675900800&v=beta&t=rqIXJLPyy6GxN_htGmBcFlpWMq0lIgHs3xTuPx9B0CE)" alt="sagormahamud007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagormahamud007" alt="sagormahamud007" /></a> </p>
 
