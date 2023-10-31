@@ -1,5 +1,4 @@
-
-https://media.licdn.com/dms/image/D5616AQEK1xlH_LuaWg/profile-displaybackgroundimage-shrink_350_1400/0/1678974869176?e=1704326400&v=beta&t=WcCWF32byKO-EyEF4oQpO4QkKACLgb88QvLRRehOGoY
+<img src="https://i.ibb.co/ft6rFBn/github-img.jpg"></img>
 <h1 align="center">Hi 👋, I'm Sagar Ali</h1>
 <h3 align="center">Web Developer</h3>
 
