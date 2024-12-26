@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://camo.githubusercontent.com/bba6522437ca867f6ca6a66c08ba1bdc7d49fc2aa67c1e6b17ab3f7508a5de24/68747470733a2f2f6d656469612e74656e6f722e636f6d2f326e4b53544444656b4f6741414141432f636f64696e672d6b6972612e676966"></img>
+  <img src="https://camo.githubusercontent.com/bba6522437ca867f6ca6a66c08ba1bdc7d49fc2aa67c1e6b17ab3f7508a5de24/68747470733a2f2f6d656469612e74656e6f722e636f6d2f326e4b53544444656b4f6741414141432f636f64696e672d6b6972612e676966" width="600" height="250"></img>
 </div>
 <h1 align="center">Hi 👋, I'm Sagar Ali</h1>
 <h3 align="center">Web Developer</h3>
